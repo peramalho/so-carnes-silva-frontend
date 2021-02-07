@@ -37,8 +37,9 @@ export const Nav = styled.nav`
     &.active {
       color: var(--white);
       background: var(--red);
-      transition: background 0.3s, color 0.3s;
     }
+
+    transition: background 0.2s, color 0.2s;
   }
 `;
 
